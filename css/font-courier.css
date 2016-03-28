@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'CourierNewCyr';
+    src: url('../fonts/CourierNewCyr.eot');
+    src: url('../fonts/CourierNewCyr.eot') format('embedded-opentype'),
+         url('../fonts/CourierNewCyr.woff2') format('woff2'),
+         url('../fonts/CourierNewCyr.woff') format('woff'),
+         url('../fonts/CourierNewCyr.ttf') format('truetype'),
+         url('../fonts/CourierNewCyr.svg#CourierNewCyr') format('svg');
+}
+@font-face {
+    font-family: 'CourierNewCyr';
+    src: url('../fonts/CourierNewCyrBold.eot');
+    src: url('../fonts/CourierNewCyrBold.eot') format('embedded-opentype'),
+         url('../fonts/CourierNewCyrBold.woff2') format('woff2'),
+         url('../fonts/CourierNewCyrBold.woff') format('woff'),
+         url('../fonts/CourierNewCyrBold.ttf') format('truetype'),
+         url('../fonts/CourierNewCyrBold.svg#CourierNewCyrBold') format('svg');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'CourierNewCyr';
+    src: url('../fonts/CourierNewCyrItalic.eot');
+    src: url('../fonts/CourierNewCyrItalic.eot') format('embedded-opentype'),
+         url('../fonts/CourierNewCyrItalic.woff2') format('woff2'),
+         url('../fonts/CourierNewCyrItalic.woff') format('woff'),
+         url('../fonts/CourierNewCyrItalic.ttf') format('truetype'),
+         url('../fonts/CourierNewCyrItalic.svg#CourierNewCyrItalic') format('svg');
+    font-style: italic;
+}
+@font-face {
+    font-family: 'CourierNewCyr';
+    src: url('../fonts/CourierNewCyrBoldItalic.eot');
+    src: url('../fonts/CourierNewCyrBoldItalic.eot') format('embedded-opentype'),
+         url('../fonts/CourierNewCyrBoldItalic.woff2') format('woff2'),
+         url('../fonts/CourierNewCyrBoldItalic.woff') format('woff'),
+         url('../fonts/CourierNewCyrBoldItalic.ttf') format('truetype'),
+         url('../fonts/CourierNewCyrBoldItalic.svg#CourierNewCyrBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
