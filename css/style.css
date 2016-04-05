@@ -22,7 +22,7 @@ li{list-style:none}
    My CSS
    ========================================================================== */
 
-body {
+html, body {
   font-family: 'CourierNewCyr', monospace;
 }
 
@@ -161,7 +161,6 @@ body {
   }
 }
 
-
 .b-list ul {
   list-style: none;
   padding: 0;
@@ -233,6 +232,24 @@ body {
   background-repeat: no-repeat;
 }
 
+/*---------- Post ----------*/
+.post-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+.post-text {
+  min-height: 100%;
+}
+.post-text p {
+  text-indent: 2rem;
+  padding-bottom: 1rem;
+}
+.post-footer {
+  background-color: #2c3e50;
+  padding: 1rem;
+  color: #fff;
+}
 
 /*---------- Tools ----------*/
 
