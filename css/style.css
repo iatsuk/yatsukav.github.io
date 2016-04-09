@@ -24,6 +24,8 @@ li{list-style:none}
 
 html, body {
   font-family: 'CourierNewCyr', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /*---------- Landing page ----------*/
@@ -75,12 +77,14 @@ html, body {
 }
 
 .cfa-border {
+  display: inline-block;
   border: solid 2px white;
   border-radius: 50%;
   padding: .5rem;
   width: 2rem;
   height: 2rem;
   text-align: center;
+  vertical-align: middle;
 }
 
 .cfa-white {
