@@ -23,7 +23,7 @@ li{list-style:none}
    ========================================================================== */
 
 html, body {
-  font-family: 'CourierNewCyr', monospace;
+  font-family: 'Codename Coder Free 4F', 'CourierNewCyr', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -67,7 +67,7 @@ html, body {
 
 .author-name {
   color: white;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: bold;
   margin: 1rem;
 }
@@ -111,13 +111,13 @@ html, body {
 }
 
 .error-text {
+  color: white;
   position: absolute;
   top: 50%;
   left: 50%;
   margin-top: -1rem;
   margin-left: -1.5rem;
   text-align: center;
-  color: white;
   font-size: 2rem;
   font-weight: bold;
 }
