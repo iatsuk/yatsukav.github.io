@@ -1,14 +1,16 @@
-[class^="fo-"], [class*=" fo-"] {
+[class^="icon-"], [class*=" icon-"] {
   font-family: 'fontello';
   font-style: normal;
   font-weight: normal;
 }
  
-.fo-github-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
-.fo-vkontakte { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
-.fo-twitter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
-.fo-rss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
-.fo-mail-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
-.fo-instagram { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
-.fo-pencil { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
-.fo-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;'); }
+.icon-github { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-pencil { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-twitter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf099;&nbsp;'); }
+.icon-github-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09b;&nbsp;'); }
+.icon-rss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09e;&nbsp;'); }
+.icon-mail-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0e0;&nbsp;'); }
+.icon-linkedin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0e1;&nbsp;'); }
+.icon-instagram { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf16d;&nbsp;'); }
+.icon-tumblr { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf173;&nbsp;'); }
+.icon-vkontakte { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf189;&nbsp;'); }

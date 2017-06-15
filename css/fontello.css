@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../fonts/fontello.eot?94464190');
-  src: url('../fonts/fontello.eot?94464190#iefix') format('embedded-opentype'),
-       url('../fonts/fontello.woff2?94464190') format('woff2'),
-       url('../fonts/fontello.woff?94464190') format('woff'),
-       url('../fonts/fontello.ttf?94464190') format('truetype'),
-       url('../fonts/fontello.svg?94464190#fontello') format('svg');
+  src: url('../fonts/fontello.eot?45370605');
+  src: url('../fonts/fontello.eot?45370605#iefix') format('embedded-opentype'),
+       url('../fonts/fontello.woff2?45370605') format('woff2'),
+       url('../fonts/fontello.woff?45370605') format('woff'),
+       url('../fonts/fontello.ttf?45370605') format('truetype'),
+       url('../fonts/fontello.svg?45370605#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,12 +15,12 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?94464190#fontello') format('svg');
+    src: url('../font/fontello.svg?45370605#fontello') format('svg');
   }
 }
 */
  
- [class^="fo-"]:before, [class*=" fo-"]:before {
+ [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
@@ -43,11 +43,13 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.fo-github-circled:before { content: '\e800'; } /* '' */
-.fo-vkontakte:before { content: '\e801'; } /* '' */
-.fo-twitter:before { content: '\e802'; } /* '' */
-.fo-rss:before { content: '\e803'; } /* '' */
-.fo-mail-alt:before { content: '\e804'; } /* '' */
-.fo-instagram:before { content: '\e805'; } /* '' */
-.fo-pencil:before { content: '\e806'; } /* '' */
-.fo-user:before { content: '\e807'; } /* '' */
+.icon-github:before { content: '\e800'; } /* '' */
+.icon-pencil:before { content: '\e801'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
+.icon-rss:before { content: '\f09e'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-linkedin:before { content: '\f0e1'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-tumblr:before { content: '\f173'; } /* '' */
+.icon-vkontakte:before { content: '\f189'; } /* '' */
